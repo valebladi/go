@@ -18,7 +18,7 @@ func other(){
 }
 
 func otherother{
-  fmt.Println("esta es la branch")
+  fmt.Println("esta es master")
 }
 
 func diceRoll(size  int) int  {
