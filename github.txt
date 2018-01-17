@@ -1,0 +1,16 @@
+Git add .
+Git commit -m""
+Git push
+
+Git pull
+
+Git branch dev
+Git branch
+
+Git checkout dev
+Git push --set-upstream origin dev
+
+Git status
+Git log
+
+Git merge
